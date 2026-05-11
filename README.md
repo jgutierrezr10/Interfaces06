@@ -1,6 +1,6 @@
 -Programas requeridos
 Node.js
-Java 25
+Java 21
 Postgresql
 
 -Extensiones de VSC
